@@ -16,7 +16,7 @@
                     <!-- Header text content-->
                     <div class="text-center text-xxl-start">
                         <div class="badge bg-gradient-primary-to-secondary text-white mb-3">
-                            <div class="text-uppercase">Fakultas Teknik Unaya</div>
+                            <div class="text-uppercase">Fakultas Tes Unaya</div>
                         </div>
                         <div class="fs-5 fw-light text-muted">Dr. Ir. Cut Rahmawati, M.T., IPM., ASEAN Eng.</div>
                         <h5 class="display-6 mt-2 mb-1"><span class="text-gradient d-inline">Dekan Fakultas Teknik</span>
